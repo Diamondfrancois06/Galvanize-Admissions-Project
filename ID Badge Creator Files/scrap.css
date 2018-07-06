@@ -1,0 +1,63 @@
+img {
+    width: 90px;
+    height: 90px;
+    float: left;
+    clear: auto;
+    
+ }
+ body {
+     background-color: red;
+     text-align: center
+    
+ }
+
+ #idCard {
+    background-image: url(http://www.tokkoro.com/picsup/3115540-blurred-background_city-skyline_seattle.jpg);
+    border-style: solid;
+    height: 17em;
+    width: 25em;
+    border-width: 5px;
+    border-radius: 20px;       
+    margin: auto;  
+ }
+
+ .idCardContainer {
+     text-align: center;
+     padding-top: 25px;
+     padding-bottom: 25px;
+     padding-left: 25px;
+     padding-right: 25px;
+ }
+ 
+ #postFullName {
+     border: hidden;
+     margin-bottom: 95px;
+     font-size: 1.6em;
+ }
+
+ #postAge {
+     border: hidden;
+     text-align: left;
+     margin-left: 10px;
+     font-size: 1em
+ }
+
+ #postPhoneNumber {
+     border: hidden;
+     text-align: left;
+     margin-left: 10px;
+     font-size: 1em
+ }
+
+ #postAddress {
+     border: hidden;
+     text-align: left;
+     margin-left: 10px;
+     font-size: 1em
+ }
+
+ #divForm {
+     padding: 5px;
+ }
+
+ 
